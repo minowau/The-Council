@@ -1,0 +1,7 @@
+{
+  "description": "Council — A Multimodal Research Council app that simulates deliberation between AI personas to reach a consensus on user proposals. Powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "Council For Greater Good"
+}
